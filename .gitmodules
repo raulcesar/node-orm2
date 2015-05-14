@@ -1,0 +1,3 @@
+[submodule "submodules/node-sql-ddl-sync"]
+	path = submodules/node-sql-ddl-sync
+	url = https://github.com/raulcesar/node-sql-ddl-sync.git
